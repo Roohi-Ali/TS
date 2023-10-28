@@ -1,0 +1,15 @@
+{
+    "scripts": {
+        "build": "webpack",
+        "serve": "webpack-dev-server"
+    },
+    "dependencies": {
+        "@babel/preset-env": "^7.23.2",
+        "@babel/preset-typescript": "^7.23.2",
+        "@babel/register": "^7.22.15",
+        "ts-loader": "^9.5.0",
+        "webpack": "^5.89.0",
+        "webpack-cli": "^5.1.4",
+        "webpack-dev-server": "^4.15.1"
+    }
+}
